@@ -1,0 +1,8 @@
+%d or %i: Used for printing or reading an integer value.
+%c: For a single character.
+%f: For floating-point numbers.
+%s: For strings (sequence of characters).
+%p: To print memory addresses or pointers.
+%x or %X: For hexadecimal integers.
+%o: For octal integers.
+%u: For unsigned integers.
